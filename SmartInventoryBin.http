@@ -1,0 +1,6 @@
+@SmartInventoryBin_HostAddress = http://localhost:5231
+
+GET {{SmartInventoryBin_HostAddress}}/InvenTrackProject/
+Accept: application/json
+
+###
